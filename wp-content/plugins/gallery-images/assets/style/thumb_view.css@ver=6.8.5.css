@@ -43,7 +43,7 @@
       color: white;
       margin: 15px auto 0 auto; }
     section #fullPreview figure {
-      background-image: url("https://thetcj.org/wp-content/plugins/gallery-images/assets/img/effects/close.png");
+      background-image: url("/wp-content/plugins/gallery-images/assets/img/effects/close.png");
       background-size: 100%;
       width: 30px;
       height: 30px;
@@ -59,7 +59,7 @@
 
       section li a.spinner {
         background-size: 100%;
-        background-image: url("https://thetcj.org/wp-content/plugins/gallery-images/assets/img/effects/spinner.gif");
+        background-image: url("/wp-content/plugins/gallery-images/assets/img/effects/spinner.gif");
         width: 50px;
         height: 50px;
         position: absolute;

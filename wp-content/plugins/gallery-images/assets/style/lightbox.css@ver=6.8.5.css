@@ -65,13 +65,13 @@
 #prevLink, #nextLink{
 	width: 49%;
 	height: 100%;
-	background: transparent url(https://thetcj.org/wp-content/plugins/gallery-images/assets/images/blank.gif) no-repeat; /* Trick IE into showing hover */
+	background: transparent url(/wp-content/plugins/gallery-images/assets/images/blank.gif) no-repeat; /* Trick IE into showing hover */
 	display: block;
 	}
 #prevLink { left: 0; float: left;}
 #nextLink { right: 0; float: right;}
-#prevLink:hover, #prevLink:visited:hover { background: url(https://thetcj.org/wp-content/plugins/gallery-images/assets/images/prev.gif) left 50% no-repeat; }
-#nextLink:hover, #nextLink:visited:hover { background: url(https://thetcj.org/wp-content/plugins/gallery-images/assets/images/next.gif) right 50% no-repeat; }
+#prevLink:hover, #prevLink:visited:hover { background: url(/wp-content/plugins/gallery-images/assets/images/prev.gif) left 50% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(/wp-content/plugins/gallery-images/assets/images/next.gif) right 50% no-repeat; }
 
 /*** START : next / previous text links ***/
 #nextLinkText, #prevLinkText{
